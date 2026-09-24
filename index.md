@@ -4,7 +4,7 @@ title: Mikrobat Gizlilik Politikasi
 
 # Mikrobat — Gizlilik Politikası
 
-_Son güncelleme: 20 Ağustos 2026_
+_Son güncelleme: 24 Eylül 2026_
 
 Mikrobat, laboratuvar analiz raporlarının (Certificate of Analysis) doğruluğunu kontrol etmeye yarayan bir doğrulama uygulamasıdır. Bu politika, uygulamanın hangi verileri işlediğini açıklar.
 
@@ -53,13 +53,13 @@ Bu politika güncellenirse, yukarıdaki "Son güncelleme" tarihi değiştirilir.
 
 ## 7. İletişim
 
-Gizlilikle ilgili tüm sorular ve veri silme talepleri için: **m.hsyngl@gmail.com**
+Gizlilikle ilgili tüm sorular ve veri silme talepleri için: **analiz@mikrobatlab.com**
 
 ---
 
 # Mikrobat — Privacy Policy
 
-_Last updated: 20 August 2026_
+_Last updated: 24 September 2026_
 
 Mikrobat is a verification app that lets anyone check the authenticity of a laboratory Certificate of Analysis. This policy explains what data the app processes.
 
@@ -108,4 +108,4 @@ If this policy changes, the "Last updated" date above will be revised.
 
 ## 7. Contact
 
-For any privacy question or data deletion request: **m.hsyngl@gmail.com**
+For any privacy question or data deletion request: **analiz@mikrobatlab.com**
