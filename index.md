@@ -53,7 +53,7 @@ Bu politika güncellenirse, yukarıdaki "Son güncelleme" tarihi değiştirilir.
 
 ## 7. İletişim
 
-Gizlilikle ilgili tüm sorular ve veri silme talepleri için: **analiz@mikrobatlab.com**
+Gizlilikle ilgili tüm sorular ve veri silme talepleri için: **analysis@mikrobatlab.com**
 
 ---
 
@@ -108,4 +108,4 @@ If this policy changes, the "Last updated" date above will be revised.
 
 ## 7. Contact
 
-For any privacy question or data deletion request: **analiz@mikrobatlab.com**
+For any privacy question or data deletion request: **analysis@mikrobatlab.com**
